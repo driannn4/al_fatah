@@ -10,13 +10,7 @@ Repositori ini berisi source code aplikasi pemesanan nasi kotak sederhana menggu
 - Simpan dan baca data dari file JSON
 - Tampilan terhubung dengan CSS dan logo
 
-## Struktur Folder
-
-- \`index.php\`: Halaman utama
-- \`data/\`: Menyimpan file JSON untuk data pemesanan
-- \`style/\`: File CSS
-- \`img/\`: Logo restoran
-- \`README.md\`: Dokumentasi proyek
+k
 
 ## Cara Menjalankan
 
